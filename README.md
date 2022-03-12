@@ -4,7 +4,7 @@
 ``go build .``
 
 ### Usage
-```java
+```
 ./math-quiz -csv=./docs/problems.csv -limit=2
 
 ./math-quiz -h
